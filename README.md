@@ -7,3 +7,6 @@ This repository is for double-blind review purposes of a manuscript entitled "Im
 
 - Python & Jupyter Notebook: anonymous_python_CTPS.ipynb
 
+  
+  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anon-math/Hibiscus/)
+
